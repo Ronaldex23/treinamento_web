@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #fafafa;
+}
+
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.section{
+    padding: 1rem;
+    text-align: left;
+    margin-top:1rem;
+    border-radius:10px;
+}
+
+/* Estilos das seções */
+.section h2{
+    border-left: 3px solid #1d1d1d;
+    padding-left: 5px
+}
+
+.listas{
+    background-color:rgb(87, 174, 246);
+}
+
+.tabela{
+    background-color:rgb(255, 235, 208);
+}
+
+.tabela .table{
+    background-color: #ffffff;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+tabela.table th{
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+}
+
+.formatacao{
+    background-color: #f5dd09a2;
+}
+
+.citacoes{
+    background-color: #ef8809;
+}
